@@ -1,0 +1,13 @@
+{
+    "name": "Parivaar kiran Workflow",
+    "description": "Parivaar kiran CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
